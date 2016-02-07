@@ -7,4 +7,4 @@ def count_letters(string)
   h
 end
 
-puts count_letters("yoyoyoyoyyoyoyoyo eeyyyy lmaozedong rofl lol")
+puts count_letters("heyo whatsup")
